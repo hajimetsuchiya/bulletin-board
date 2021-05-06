@@ -4,6 +4,7 @@
 # 概要
 投稿者の名前及び投稿内容が表示される掲示板です。  
 以下のように表示され、過去に投稿された内容も全て表示されます。
+![image](https://user-images.githubusercontent.com/83744243/117248465-fa173480-ae7a-11eb-9dbf-3016d6632bcf.png)
 
 # 動作環境
 ・Ubuntu20.04  
