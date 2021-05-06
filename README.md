@@ -17,7 +17,7 @@
 ・$ sudo pip3 install mysqlclient  
 ・$ sudo pip3 install python-dotenv  
 
-# Author
+# Authors
 hajimetsuchiya
 
 # References
