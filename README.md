@@ -9,3 +9,9 @@
 ・Ubuntu20.04  
 ・Python3.8.5  
 ・MySQL8.0.23  
+
+# 準備
+$ sudo apt install apache2  
+$ sudo apt install python3-pip    
+$ sudo pip3 install mysqlclient  
+$ sudo pip3 install python-dotenv  
