@@ -1,2 +1,2 @@
-# test_repository
-名前　「虎速」
+# 名前
+「虎速」
